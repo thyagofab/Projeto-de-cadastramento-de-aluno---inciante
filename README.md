@@ -4,7 +4,7 @@
 
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Linguagem Utilizada](#linguagem-utilizada)
-- [Requisito de Avaliação](#requisito-de-avaliação-na-disciplina-de-algoritmo)
+- [Requisito de Avaliação](#requisitos-de-avaliação-na-disciplina-de-algoritmo)
 - [Demonstração da Interface do Programa](#demonstração-da-interface-do-programa)
 
 ## Objetivo do Projeto
