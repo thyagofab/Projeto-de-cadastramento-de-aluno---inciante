@@ -4,7 +4,7 @@
 
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Linguagem Utilizada](#linguagem-utilizada)
-- [Requisito de Avaliação](#requisito-de-avaliação)
+- [Requisito de Avaliação](#requisito-de-avaliação-na-disciplina-de-algoritmo)
 - [Demonstração da Interface do Programa](#demonstração-da-interface-do-programa)
 
 ## Objetivo do Projeto
@@ -15,7 +15,7 @@ O principal propósito deste programa é tornar o processo de registro e anális
 
 O projeto foi desenvolvido utilizando a linguagem de programação C. Esta escolha foi feita levando em consideração a eficiência e a versatilidade dessa linguagem para manipulação de dados e implementação de estruturas de controle necessárias para o sistema em questão.
 
-## Requisito de Avaliação
+## Requisitos de Avaliação na Disciplina de Algoritmo.
 
 Neste projeto, o aluno deve escrever um programa que simule o uso de uma aplicação da vida real, a exemplo do [BeeCrowd](https://www.beecrowd.com.br/). Cada estudante deve selecionar uma aplicação distinta de seu interesse.
 
